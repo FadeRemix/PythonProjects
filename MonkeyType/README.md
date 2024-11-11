@@ -13,4 +13,4 @@ Returns your personal stats.
 ### User Stat Search
 Returns stats of searched user.
 
-![image](https://github.com/user-attachments/assets/c9fb6169-5a91-4b77-b1fa-8e8e534221e2)
+![image](https://github.com/user-attachments/assets/5f3b24dd-900a-46cd-9237-ce039bc43356)
