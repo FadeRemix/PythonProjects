@@ -1,4 +1,4 @@
-# Folder for all of my MonkeyType projects
+# Folder for all of my MonkeyType projects (requires own auth key.)
 
 ### Name Check
 Checks if a certain name is avalible. Has error handling.
